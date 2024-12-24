@@ -1,0 +1,12 @@
+= Hi there 👋
+
+- 👋 Hi, I’m liao06550107，Graduated from **Tianjin CHENJIAN University**.
+- 👨‍💻 A Software Engineer living in Shenzhen. Working in Shenzhen. ***Good at JAVA, Rustaceans***
+- 📚 I’m currently learning English and Go.
+- 👉 https://notes-docs.github.io/docs-site/[Here] is my personal website.
+- 📫 How to reach me: liao08022040@126.com or liao06550107@gmail.com.
+- 🔊 If there is a suitable job opportunity, please feel free to send an email to mxsm@apache.org. I will respond at the earliest convenience after receiving your message.
+
+== Profile Views
+
+counting of visitors to this page in this section started from July 30, 2023
