@@ -9,4 +9,8 @@
 
 == Profile Views
 
-counting of visitors to this page in this section started from July 30, 2023
+counting of visitors to this page in this section started from December, 24, 2024.
+
+image::https://count.getloli.com/@liao06550107?name=liao06550107&theme=3d-num&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto[]
+
+// https://github.com/mxsm/
