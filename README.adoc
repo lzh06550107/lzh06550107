@@ -1,7 +1,7 @@
 = Hi there 👋
 
 - 👋 Hi, I’m liao06550107，Graduated from **Tianjin CHENJIAN University**.
-- 👨‍💻 A Software Engineer living in Shenzhen. Working in Shenzhen. ***Good at JAVA, Go***
+- 👨‍💻 A Software Engineer living in Shenzhen. Working in Shenzhen. ***Good at PHP/JAVA/Go***
 - 📚 I’m currently learning English and Go.
 - 👉 https://notes-docs.github.io/docs-site/[Here] is my personal website.
 - 📫 How to reach me: liao08022040@126.com or liao06550107@gmail.com.
